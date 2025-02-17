@@ -12,7 +12,7 @@
       "@models/*": ["src/models/*"],         
       "@utils/*": ["src/utils/*"],           
       "@data/*": ["src/data/*"],           
-      "@routes/*": ["src/routes/*"]           
+      "@routes/*": ["src/routes/*"],
     }
   },
   "include": ["src", "main.ts"],     
